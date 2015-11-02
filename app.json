@@ -1,0 +1,9 @@
+{
+  "name":"ember-cli-sass-test",
+  "scripts":{},
+  "env":{},
+  "addons":[
+    "heroku-postgresql",
+    "heroku-redis"
+  ]
+}
